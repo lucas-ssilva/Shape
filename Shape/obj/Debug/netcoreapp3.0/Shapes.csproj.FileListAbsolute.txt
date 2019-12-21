@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\Shape\Shape\bin\Debug\netcoreapp3.0\Shapes.exe
+C:\Users\Lucas\source\repos\Shape\Shape\bin\Debug\netcoreapp3.0\Shapes.deps.json
+C:\Users\Lucas\source\repos\Shape\Shape\bin\Debug\netcoreapp3.0\Shapes.runtimeconfig.json
+C:\Users\Lucas\source\repos\Shape\Shape\bin\Debug\netcoreapp3.0\Shapes.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\Shape\Shape\bin\Debug\netcoreapp3.0\Shapes.dll
+C:\Users\Lucas\source\repos\Shape\Shape\bin\Debug\netcoreapp3.0\Shapes.pdb
+C:\Users\Lucas\source\repos\Shape\Shape\obj\Debug\netcoreapp3.0\Shapes.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Shape\Shape\obj\Debug\netcoreapp3.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Shape\Shape\obj\Debug\netcoreapp3.0\Shapes.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Shape\Shape\obj\Debug\netcoreapp3.0\Shapes.dll
+C:\Users\Lucas\source\repos\Shape\Shape\obj\Debug\netcoreapp3.0\Shapes.pdb

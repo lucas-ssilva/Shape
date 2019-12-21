@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas\\source\\repos\\Shape\\Shape\\Shape.csproj",
-      "projectName": "Shape",
-      "projectPath": "C:\\Users\\Lucas\\source\\repos\\Shape\\Shape\\Shape.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas\\source\\repos\\Shape\\Shape\\Shapes.csproj",
+      "projectName": "Shapes",
+      "projectPath": "C:\\Users\\Lucas\\source\\repos\\Shape\\Shape\\Shapes.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lucas\\source\\repos\\Shape\\Shape\\obj\\",
       "projectStyle": "PackageReference",

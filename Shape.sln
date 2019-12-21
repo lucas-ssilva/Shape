@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape", "Shape\Shape.csproj", "{40C51FB8-F569-4A66-B3C1-8632F3A3D218}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shapes", "Shape\Shapes.csproj", "{40C51FB8-F569-4A66-B3C1-8632F3A3D218}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

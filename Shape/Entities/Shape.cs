@@ -2,15 +2,19 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Shape.Entities
+namespace Shapes.Entities
 {
-    class Shape
+    abstract class Shape
     {
         public  Color Color { get; set; }
 
-        public abstract double Area()
+        public Shape(Color color)
         {
-
+            Color = color;
         }
+
+
+        public abstract double Area();
+
     }
 }

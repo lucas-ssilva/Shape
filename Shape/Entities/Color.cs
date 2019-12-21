@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Shape.Entities
+namespace Shapes.Entities
 {
     enum Color : int
     {
